@@ -1,5 +1,6 @@
 
 ![bonnielogo](https://user-images.githubusercontent.com/45118623/92580697-619ec500-f297-11ea-8024-9bcb4cf907e3.png)
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 
 
 
