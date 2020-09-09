@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/bonnielogo.png "Header")](https://martinheinz.dev/)
+![bonnielogo](https://user-images.githubusercontent.com/45118623/92580174-bdb51980-f296-11ea-8c93-11b4f6360306.png)
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Nyambura254/Nyambura254/master/wave.gif" width="30px">
 
