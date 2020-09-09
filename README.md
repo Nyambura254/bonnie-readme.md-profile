@@ -33,12 +33,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 <a href="https://github.com/Nyambura254/MERN-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyambura254&repo=MERN-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyambura254&repo=Todo-App-react-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/Nyambura254/javascript-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyambura254&repo=javascript-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyambura254&repo= Javascript-calc-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
