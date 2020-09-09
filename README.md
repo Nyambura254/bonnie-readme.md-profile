@@ -44,7 +44,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/Nyambura254/javascript-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyambura254&repo= Javascript-calc-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyambura254&repo=Javascript-calc)
 
 <!-- links to social media icons -->
 
