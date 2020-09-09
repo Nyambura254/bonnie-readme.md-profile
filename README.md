@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Nyambura254/Nyambura254/master/wave.gif" width="30px">
 
-My name is Boniface Mwangi and I'm a software developer. I'm from Kenya, living in Nakuru County and currently working at Nexus. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Boniface Mwangi and I'm a software developer. I'm from Kenya, living in Nakuru County and currently working at Nexus. You can find me on [![https://twitter.com/BonnieNyambura][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
